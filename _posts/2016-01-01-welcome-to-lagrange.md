@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: ""
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Я сегодня прочел две стотьи про css, в првой статьее говорилось о том как интересно оформить свой веб сайт , а во второй статье было советы по css.
 
 ## Getting Started
 
